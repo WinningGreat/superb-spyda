@@ -10,7 +10,7 @@ sections:
       who need a sleek, modern SaaS site. 
     image: images/hero.png
     section_id: We Build World Class
-    title: This Is A Big Hero Headline
+    title: We Build World Class Applications
     type: heroblock
   - bg: gray
     component: FeaturesBlock
